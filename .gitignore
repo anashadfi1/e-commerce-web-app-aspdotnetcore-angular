@@ -1,0 +1,27 @@
+# Visual Studio temporary files, build results, and node_modules 
+# .NET / Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.vs
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+.vscode/
+.vs/
+
+# Node / Angular
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
+# Environment files
+.env
+appsettings.*.json
+
+# Other
+*.db
